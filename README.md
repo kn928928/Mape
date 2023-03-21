@@ -1,4 +1,1 @@
-# Mape
-[Hilton.pdf](https://github.com/kn928928/Mape/files/11024930/Hilton.pdf)
-
-Mape-pdf
+[Hilton.pdf](https://github.com/kn928928/Mape/files/11024996/Hilton.pdf)
